@@ -1,6 +1,6 @@
 package cn.lastmiles.rocketmq.consumer;
 
-import com.alibaba.rocketmq.client.consumer.DefaultMQPushConsumer;
+import org.apache.rocketmq.client.consumer.DefaultMQPushConsumer;
 
 /**
  * 消费者

@@ -1,6 +1,6 @@
 package cn.lastmiles.rocketmq.consumer;
 
-import com.alibaba.rocketmq.common.message.MessageExt;
+import org.apache.rocketmq.common.message.MessageExt;
 import org.springframework.context.ApplicationEvent;
 
 /**

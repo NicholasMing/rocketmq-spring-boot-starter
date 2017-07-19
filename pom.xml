@@ -21,9 +21,9 @@
         
         <!--rocketmq-->
         <dependency>
-            <groupId>com.alibaba.rocketmq</groupId>
+            <groupId>org.apache.rocketmq</groupId>
             <artifactId>rocketmq-client</artifactId>
-            <version>3.2.6</version>
+            <version>4.0.0-incubating</version>
         </dependency>
         <dependency>
             <groupId>org.apache.rocketmq</groupId>
